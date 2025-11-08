@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Hi there 👋, I'm bsquidwrd
 
-You can use the [editor on GitHub](https://github.com/bsquidwrd/bsquidwrd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- You can call me Squid for short
+- 😄 Pronouns: [he/him/they/them](https://en.pronouns.page/@bsquidwrd)
+- 📫 All of my links can be found on [bsquidwrd.link](https://bsquidwrd.link). If you reach out to me, please honor [nohello](https://nohello.net/)
+- 📖 I currently work full time as an Integration Engineer and am going to school for a Bachelors in Software Engineering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 👀 I'm interested in:
+- Programming
+- API's
+- Automating as much as possible
 
-### Markdown
+## 📊 GitHub Stats
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bsquidwrd&show_icons=true&theme=nightowl">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsquidwrd&layout=donut&theme=nightowl&hide=css,html,applescript">
+</div>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsquidwrd/bsquidwrd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Note: The postings on this site are my own and do not necessarily reflect the views of Aeries Software.*
